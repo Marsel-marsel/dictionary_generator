@@ -1,15 +1,141 @@
 MTS
-+7 916 00x-xx-xx	0000000..9999999	10000000	Москва и Московская област
-+7 916 99x-xx-xx	0000000..9999999	10000000	Москва и Московская област
-+7 917 5xx-xx-xx	5000000..5999999	1000000	Москва и Московская область
++7 916 00/99x-xx-xx	0000000..9999999	10000000	Москва и Московская област
++7 916 00x-xx-xx	tab
++7 916 01x-xx-xx	tab
++7 916 02x-xx-xx	tab
++7 916 03x-xx-xx	tab
++7 916 04x-xx-xx	tab
++7 916 05x-xx-xx	tab
++7 916 06x-xx-xx	tab
++7 916 07x-xx-xx	tab
++7 916 08x-xx-xx	tab
++7 916 09x-xx-xx	tab
++7 916 10x-xx-xx	tab
++7 916 11x-xx-xx	tab
++7 916 12x-xx-xx	tab
++7 916 13x-xx-xx	tab
++7 916 14x-xx-xx	tab
++7 916 15x-xx-xx	tab
++7 916 16x-xx-xx	tab
++7 916 17x-xx-xx	tab
++7 916 18x-xx-xx	tab
++7 916 19x-xx-xx	tab
++7 916 20x-xx-xx	tab
++7 916 21x-xx-xx	tab
++7 916 22x-xx-xx	tab
++7 916 23x-xx-xx	tab
++7 916 24x-xx-xx	tab
++7 916 25x-xx-xx	tab
++7 916 26x-xx-xx	tab
++7 916 27x-xx-xx	tab
++7 916 28x-xx-xx	tab
++7 916 29x-xx-xx	tab
++7 916 30x-xx-xx	tab
++7 916 31x-xx-xx	tab
++7 916 32x-xx-xx	tab
++7 916 33x-xx-xx	tab
++7 916 34x-xx-xx	tab
++7 916 35x-xx-xx	tab
++7 916 36x-xx-xx	tab
++7 916 37x-xx-xx	tab
++7 916 38x-xx-xx	tab
++7 916 39x-xx-xx	tab
++7 916 40x-xx-xx	tab
++7 916 41x-xx-xx	tab
++7 916 42x-xx-xx	tab
++7 916 43x-xx-xx	tab
++7 916 44x-xx-xx	tab
++7 916 45x-xx-xx	tab
++7 916 46x-xx-xx	tab
++7 916 47x-xx-xx	tab
++7 916 48x-xx-xx	tab
++7 916 49x-xx-xx	tab
++7 916 50x-xx-xx	tab
++7 916 51x-xx-xx	tab
++7 916 52x-xx-xx	tab
++7 916 53x-xx-xx	tab
++7 916 54x-xx-xx	tab
++7 916 55x-xx-xx	tab
++7 916 56x-xx-xx	tab
++7 916 57x-xx-xx	tab
++7 916 58x-xx-xx	tab
++7 916 59x-xx-xx	tab
++7 916 60x-xx-xx	tab
++7 916 61x-xx-xx	tab
++7 916 62x-xx-xx	tab
++7 916 63x-xx-xx	tab
++7 916 64x-xx-xx	tab
++7 916 65x-xx-xx	tab
++7 916 66x-xx-xx	tab
++7 916 67x-xx-xx	tab
++7 916 68x-xx-xx	tab
++7 916 69x-xx-xx	tab
++7 916 70x-xx-xx	tab
++7 916 71x-xx-xx	tab
++7 916 72x-xx-xx	tab
++7 916 73x-xx-xx	tab
++7 916 74x-xx-xx	tab
++7 916 75x-xx-xx	tab
++7 916 76x-xx-xx	tab
++7 916 77x-xx-xx	tab
++7 916 78x-xx-xx	tab
++7 916 79x-xx-xx	tab
++7 916 80x-xx-xx	tab
++7 916 81x-xx-xx	tab
++7 916 82x-xx-xx	tab
++7 916 83x-xx-xx	tab
++7 916 84x-xx-xx	tab
++7 916 85x-xx-xx	tab
++7 916 86x-xx-xx	tab
++7 916 87x-xx-xx	tab
++7 916 88x-xx-xx	tab
++7 916 89x-xx-xx	tab
++7 916 90x-xx-xx	tab
++7 916 91x-xx-xx	tab
++7 916 92x-xx-xx	tab
++7 916 93x-xx-xx	tab
++7 916 94x-xx-xx	tab
++7 916 95x-xx-xx	tab
++7 916 96x-xx-xx	tab
++7 916 97x-xx-xx	tab
++7 916 98x-xx-xx	tab
++7 916 99x-xx-xx	tab
 +7 985 0xx-xx-xx	0000000..0999999	1000000	Москва и Московская область
-+7 985 21x-xx-xx	1000000..2192999	1193000
-+7 985 10x-xx-xx	1000000..2192999	1193000
-+7 985 22x-xx-xx	2200000..3199999	1000000
-+7 985 31x-xx-xx	2200000..3199999	1000000
++7 985 10/31x-xx-xx	1000000..2192999	1193000
++7 985 10x-xx-xx	tab
++7 985 11x-xx-xx	tab
++7 985 12x-xx-xx	tab
++7 985 13x-xx-xx	tab
++7 985 14x-xx-xx	tab
++7 985 15x-xx-xx	tab
++7 985 16x-xx-xx	tab
++7 985 17x-xx-xx	tab
++7 985 18x-xx-xx	tab
++7 985 19x-xx-xx	tab
++7 985 20x-xx-xx	tab
++7 985 21x-xx-xx	tab
++7 985 22x-xx-xx	tab
++7 985 23x-xx-xx	tab
++7 985 24x-xx-xx	tab
++7 985 25x-xx-xx	tab
++7 985 26x-xx-xx	tab
++7 985 27x-xx-xx	tab
++7 985 28x-xx-xx	tab
++7 985 29x-xx-xx	tab
 +7 985 3xx-xx-xx	3300000..3699999	400000
-+7 985 38x-xx-xx	3800000..4929999	1130000
-+7 985 49x-xx-xx	3800000..4929999	1130000
++7 985 38/49x-xx-xx	3800000..4929999	1130000
++7 985 38x-xx-xx	tab
++7 985 39x-xx-xx	tab
++7 985 40x-xx-xx	tab
++7 985 41x-xx-xx	tab
++7 985 42x-xx-xx	tab
++7 985 43x-xx-xx	tab
++7 985 44x-xx-xx	tab
++7 985 45x-xx-xx	tab
++7 985 46x-xx-xx	tab
++7 985 47x-xx-xx	tab
++7 985 48x-xx-xx	tab
++7 985 49x-xx-xx	tab
 +7 985 5xx-xx-xx	5000000..5999999	1000000
 +7 985 600-xx-xx	6000000..6009999	10000
 +7 985 604-xx-xx	6040000..6049999	10000
@@ -22,21 +148,120 @@ MTS
 +7 985 71x-xx-xx	7100000..7199999	100000
 +7 985 72x-xx-xx	7200000..7299999	100000
 +7 985 7xx-xx-xx	7300000..7599999	300000
-+7 985 76x-xx-xx	7600000..8999999	1400000
-+7 985 89x-xx-xx	7600000..8999999	1400000
++7 985 76/89x-xx-xx	7600000..8999999	1400000
++7 985 76x-xx-xx	tab
++7 985 77x-xx-xx	tab
++7 985 78x-xx-xx	tab
++7 985 79x-xx-xx	tab
++7 985 80x-xx-xx	tab
++7 985 81x-xx-xx	tab
++7 985 82x-xx-xx	tab
++7 985 83x-xx-xx	tab
++7 985 84x-xx-xx	tab
++7 985 85x-xx-xx	tab
++7 985 86x-xx-xx	tab
++7 985 87x-xx-xx	tab
++7 985 88x-xx-xx	tab
++7 985 89x-xx-xx	tab
 +7 985 904-xx-xx	9040000..9049999	10000
 +7 985 9xx-xx-xx	9100000..9299999	200000
 +7 985 9xx-xx-xx	9600000..9799999	200000
 +7 985 99x-xx-xx	9900000..9999999	100000
 
 MegaFon
-+7 925 00x-xx-xx	0000000..6969999	6970000	Москва и Московская область
-+7 925 69x-xx-xx	0000000..6969999	6970000	Москва и Московская область
-+7 925 70x-xx-xx	7000000..9209999	2210000
-+7 925 92x-xx-xx	7000000..9209999	2210000
++7 925 00/69x-xx-xx	0000000..6969999	6970000	Москва и Московская область
++7 925 00x-xx-xx	tab
++7 925 01x-xx-xx	tab
++7 925 02x-xx-xx	tab
++7 925 03x-xx-xx	tab
++7 925 04x-xx-xx	tab
++7 925 05x-xx-xx	tab
++7 925 06x-xx-xx	tab
++7 925 07x-xx-xx	tab
++7 925 08x-xx-xx	tab
++7 925 09x-xx-xx	tab
++7 925 10x-xx-xx	tab
++7 925 11x-xx-xx	tab
++7 925 12x-xx-xx	tab
++7 925 13x-xx-xx	tab
++7 925 14x-xx-xx	tab
++7 925 15x-xx-xx	tab
++7 925 16x-xx-xx	tab
++7 925 17x-xx-xx	tab
++7 925 18x-xx-xx	tab
++7 925 19x-xx-xx	tab
++7 925 20x-xx-xx	tab
++7 925 21x-xx-xx	tab
++7 925 22x-xx-xx	tab
++7 925 23x-xx-xx	tab
++7 925 24x-xx-xx	tab
++7 925 25x-xx-xx	tab
++7 925 26x-xx-xx	tab
++7 925 27x-xx-xx	tab
++7 925 28x-xx-xx	tab
++7 925 29x-xx-xx	tab
++7 925 30x-xx-xx	tab
++7 925 31x-xx-xx	tab
++7 925 32x-xx-xx	tab
++7 925 33x-xx-xx	tab
++7 925 34x-xx-xx	tab
++7 925 35x-xx-xx	tab
++7 925 36x-xx-xx	tab
++7 925 37x-xx-xx	tab
++7 925 38x-xx-xx	tab
++7 925 39x-xx-xx	tab
++7 925 40x-xx-xx	tab
++7 925 41x-xx-xx	tab
++7 925 42x-xx-xx	tab
++7 925 43x-xx-xx	tab
++7 925 44x-xx-xx	tab
++7 925 45x-xx-xx	tab
++7 925 46x-xx-xx	tab
++7 925 47x-xx-xx	tab
++7 925 48x-xx-xx	tab
++7 925 49x-xx-xx	tab
++7 925 50x-xx-xx	tab
++7 925 51x-xx-xx	tab
++7 925 52x-xx-xx	tab
++7 925 53x-xx-xx	tab
++7 925 54x-xx-xx	tab
++7 925 55x-xx-xx	tab
++7 925 56x-xx-xx	tab
++7 925 57x-xx-xx	tab
++7 925 58x-xx-xx	tab
++7 925 59x-xx-xx	tab
++7 925 60x-xx-xx	tab
++7 925 61x-xx-xx	tab
++7 925 62x-xx-xx	tab
++7 925 63x-xx-xx	tab
++7 925 64x-xx-xx	tab
++7 925 65x-xx-xx	tab
++7 925 66x-xx-xx	tab
++7 925 67x-xx-xx	tab
++7 925 68x-xx-xx	tab
++7 925 69x-xx-xx	tab
++7 925 70x-xx-xx	tab
++7 925 71x-xx-xx	tab
++7 925 72x-xx-xx	tab
++7 925 73x-xx-xx	tab
++7 925 74x-xx-xx	tab
++7 925 75x-xx-xx	tab
++7 925 76x-xx-xx	tab
++7 925 77x-xx-xx	tab
++7 925 78x-xx-xx	tab
++7 925 79x-xx-xx	tab
++7 925 80x-xx-xx	tab
++7 925 81x-xx-xx	tab
++7 925 82x-xx-xx	tab
++7 925 83x-xx-xx	tab
++7 925 84x-xx-xx	tab
++7 925 85x-xx-xx	tab
++7 925 86x-xx-xx	tab
++7 925 87x-xx-xx	tab
++7 925 88x-xx-xx	tab
++7 925 89x-xx-xx	tab
 +7 925 9xx-xx-xx	9220000..9489999	270000
 +7 925 96x-xx-xx	9600000..9619999	20000
-+7 925 9xx-xx-xx	9670000..9709999	40000
 +7 925 974-xx-xx	9740000..9749999	10000
 +7 925 985-xx-xx	9850000..9859999	10000
 +7 925 991-xx-xx	9910000..9919999	10000
@@ -79,19 +304,209 @@ Beeline
 +7 964 7xx-xx-xx	7700000..7999999	300000i
 +7 965 1xx-xx-xx	1000000..1999999	1000000	Москва и Московская область
 +7 965 2xx-xx-xx	2000000..2499999	500000
-+7 965 25x-xx-xx	2500000..4499999	2000000
-+7 965 44x-xx-xx	2500000..4499999	2000000
++7 965 25/44x-xx-xx	2500000..4499999	2000000
++7 965 25x-xx-xx	tab
++7 965 26x-xx-xx	tab
++7 965 27x-xx-xx	tab
++7 965 28x-xx-xx	tab
++7 965 29x-xx-xx	tab
++7 965 30x-xx-xx	tab
++7 965 31x-xx-xx	tab
++7 965 32x-xx-xx	tab
++7 965 33x-xx-xx	tab
++7 965 34x-xx-xx	tab
++7 965 35x-xx-xx	tab
++7 965 36x-xx-xx	tab
++7 965 37x-xx-xx	tab
++7 965 38x-xx-xx	tab
++7 965 39x-xx-xx	tab
++7 965 40x-xx-xx	tab
++7 965 41x-xx-xx	tab
++7 965 42x-xx-xx	tab
++7 965 43x-xx-xx	tab
++7 965 44x-xx-xx	tab
 +7 966 0xx-xx-xx	0000000..0999999	1000000	Москва и Московская область
 +7 966 1xx-xx-xx	1000000..1999999	1000000
 +7 966 3xx-xx-xx	3000000..3999999	1000000
-+7 967 00x-xx-xx	0000000..2999999	3000000	Москва и Московская область
-+7 967 29x-xx-xx	0000000..2999999	3000000	Москва и Московская область
++7 967 00/29x-xx-xx	0000000..2999999	3000000	Москва и Московская область
++7 967 00x-xx-xx	tab
++7 967 01x-xx-xx	tab
++7 967 02x-xx-xx	tab
++7 967 03x-xx-xx	tab
++7 967 04x-xx-xx	tab
++7 967 05x-xx-xx	tab
++7 967 06x-xx-xx	tab
++7 967 07x-xx-xx	tab
++7 967 08x-xx-xx	tab
++7 967 09x-xx-xx	tab
++7 967 10x-xx-xx	tab
++7 967 11x-xx-xx	tab
++7 967 12x-xx-xx	tab
++7 967 13x-xx-xx	tab
++7 967 14x-xx-xx	tab
++7 967 15x-xx-xx	tab
++7 967 16x-xx-xx	tab
++7 967 17x-xx-xx	tab
++7 967 18x-xx-xx	tab
++7 967 19x-xx-xx	tab
++7 967 20x-xx-xx	tab
++7 967 21x-xx-xx	tab
++7 967 22x-xx-xx	tab
++7 967 23x-xx-xx	tab
++7 967 24x-xx-xx	tab
++7 967 25x-xx-xx	tab
++7 967 26x-xx-xx	tab
++7 967 27x-xx-xx	tab
++7 967 28x-xx-xx	tab
++7 967 29x-xx-xx	tab
 +7 968 0xx-xx-xx	0000000..0999999	1000000	Москва и Московская область
-+7 968 31x-xx-xx	3100000..9999999	6900000
-+7 968 99x-xx-xx	3100000..9999999	6900000
++7 968 31/99x-xx-xx	3100000..9999999	6900000
++7 968 31x-xx-xx	tab
++7 968 32x-xx-xx	tab
++7 968 33x-xx-xx	tab
++7 968 34x-xx-xx	tab
++7 968 35x-xx-xx	tab
++7 968 36x-xx-xx	tab
++7 968 37x-xx-xx	tab
++7 968 38x-xx-xx	tab
++7 968 39x-xx-xx	tab
++7 968 40x-xx-xx	tab
++7 968 41x-xx-xx	tab
++7 968 42x-xx-xx	tab
++7 968 43x-xx-xx	tab
++7 968 44x-xx-xx	tab
++7 968 45x-xx-xx	tab
++7 968 46x-xx-xx	tab
++7 968 47x-xx-xx	tab
++7 968 48x-xx-xx	tab
++7 968 49x-xx-xx	tab
++7 968 50x-xx-xx	tab
++7 968 51x-xx-xx	tab
++7 968 52x-xx-xx	tab
++7 968 53x-xx-xx	tab
++7 968 54x-xx-xx	tab
++7 968 55x-xx-xx	tab
++7 968 56x-xx-xx	tab
++7 968 57x-xx-xx	tab
++7 968 58x-xx-xx	tab
++7 968 59x-xx-xx	tab
++7 968 60x-xx-xx	tab
++7 968 61x-xx-xx	tab
++7 968 62x-xx-xx	tab
++7 968 63x-xx-xx	tab
++7 968 64x-xx-xx	tab
++7 968 65x-xx-xx	tab
++7 968 66x-xx-xx	tab
++7 968 67x-xx-xx	tab
++7 968 68x-xx-xx	tab
++7 968 69x-xx-xx	tab
++7 968 70x-xx-xx	tab
++7 968 71x-xx-xx	tab
++7 968 72x-xx-xx	tab
++7 968 73x-xx-xx	tab
++7 968 74x-xx-xx	tab
++7 968 75x-xx-xx	tab
++7 968 76x-xx-xx	tab
++7 968 77x-xx-xx	tab
++7 968 78x-xx-xx	tab
++7 968 79x-xx-xx	tab
++7 968 80x-xx-xx	tab
++7 968 81x-xx-xx	tab
++7 968 82x-xx-xx	tab
++7 968 83x-xx-xx	tab
++7 968 84x-xx-xx	tab
++7 968 85x-xx-xx	tab
++7 968 86x-xx-xx	tab
++7 968 87x-xx-xx	tab
++7 968 88x-xx-xx	tab
++7 968 89x-xx-xx	tab
++7 968 90x-xx-xx	tab
++7 968 91x-xx-xx	tab
++7 968 92x-xx-xx	tab
++7 968 93x-xx-xx	tab
++7 968 94x-xx-xx	tab
++7 968 95x-xx-xx	tab
++7 968 96x-xx-xx	tab
++7 968 97x-xx-xx	tab
++7 968 98x-xx-xx	tab
++7 968 99x-xx-xx	tab
 
 Tele2
-+7 977 25x-xx-xx	2500000..9999999	7500000	Москва и Московская область
-+7 977 99x-xx-xx	2500000..9999999	7500000	Москва и Московская область
++7 977 25/99x-xx-xx	2500000..9999999	7500000	Москва и Московская область
++7 977 25x-xx-xx	tab
++7 977 26x-xx-xx	tab
++7 977 27x-xx-xx	tab
++7 977 28x-xx-xx	tab
++7 977 29x-xx-xx	tab
++7 977 30x-xx-xx	tab
++7 977 31x-xx-xx	tab
++7 977 32x-xx-xx	tab
++7 977 33x-xx-xx	tab
++7 977 34x-xx-xx	tab
++7 977 35x-xx-xx	tab
++7 977 36x-xx-xx	tab
++7 977 37x-xx-xx	tab
++7 977 38x-xx-xx	tab
++7 977 39x-xx-xx	tab
++7 977 40x-xx-xx	tab
++7 977 41x-xx-xx	tab
++7 977 42x-xx-xx	tab
++7 977 43x-xx-xx	tab
++7 977 44x-xx-xx	tab
++7 977 45x-xx-xx	tab
++7 977 46x-xx-xx	tab
++7 977 47x-xx-xx	tab
++7 977 48x-xx-xx	tab
++7 977 49x-xx-xx	tab
++7 977 50x-xx-xx	tab
++7 977 51x-xx-xx	tab
++7 977 52x-xx-xx	tab
++7 977 53x-xx-xx	tab
++7 977 54x-xx-xx	tab
++7 977 55x-xx-xx	tab
++7 977 56x-xx-xx	tab
++7 977 57x-xx-xx	tab
++7 977 58x-xx-xx	tab
++7 977 59x-xx-xx	tab
++7 977 60x-xx-xx	tab
++7 977 61x-xx-xx	tab
++7 977 62x-xx-xx	tab
++7 977 63x-xx-xx	tab
++7 977 64x-xx-xx	tab
++7 977 65x-xx-xx	tab
++7 977 66x-xx-xx	tab
++7 977 67x-xx-xx	tab
++7 977 68x-xx-xx	tab
++7 977 69x-xx-xx	tab
++7 977 70x-xx-xx	tab
++7 977 71x-xx-xx	tab
++7 977 72x-xx-xx	tab
++7 977 73x-xx-xx	tab
++7 977 74x-xx-xx	tab
++7 977 75x-xx-xx	tab
++7 977 76x-xx-xx	tab
++7 977 77x-xx-xx	tab
++7 977 78x-xx-xx	tab
++7 977 79x-xx-xx	tab
++7 977 80x-xx-xx	tab
++7 977 81x-xx-xx	tab
++7 977 82x-xx-xx	tab
++7 977 83x-xx-xx	tab
++7 977 84x-xx-xx	tab
++7 977 85x-xx-xx	tab
++7 977 86x-xx-xx	tab
++7 977 87x-xx-xx	tab
++7 977 88x-xx-xx	tab
++7 977 89x-xx-xx	tab
++7 977 90x-xx-xx	tab
++7 977 91x-xx-xx	tab
++7 977 92x-xx-xx	tab
++7 977 93x-xx-xx	tab
++7 977 94x-xx-xx	tab
++7 977 95x-xx-xx	tab
++7 977 96x-xx-xx	tab
++7 977 97x-xx-xx	tab
++7 977 98x-xx-xx	tab
++7 977 99x-xx-xx	tab
 +7 999 333-xx-xx	3330000..3339999	10000	Москва и Московская область
 +7 999 444-xx-xx	4440000..4449999	10000
