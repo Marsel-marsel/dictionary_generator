@@ -1,5 +1,5 @@
 
-def parse_operator_codes_file(input_file='indexmain.ru_collected_trunked.txt'):
+def parse_operator_codes_file(input_file='indexmain.ru_collected.txt'):
     return [fetch_digits(line) for line in open(input_file, "r").readlines() if is_oper_code_line(line)]
 
 
@@ -22,7 +22,7 @@ def main(dict_file):
     country_codes = [7, 8]
     for operator_code in parse_operator_codes_file():
         digits_left = 11 - operator_code.__len__() - 1 #minus one digit for country_code
-        for postfix in range(0, 10**digits_left - 1):
+        for postfix in range(0, 10**digits_left):
             for country_code in country_codes:
                 phone_number = str(country_code) + str(operator_code) + str(postfix).zfill(digits_left) + '\n'
                 dict_file.write(phone_number)
