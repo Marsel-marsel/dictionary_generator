@@ -23,7 +23,7 @@ contains of MTS, Megafon, Beeline, Tele2 subscribers.
 #### POC
 After _phone_num_dict.txt_ has been generated I've 
 check it with 10 real numbers randomly fetched from 
-my own phone dictionary simply using ```grep phone_num_dict.txt <friend's number> ; echo $?``` 
+my own phone dictionary simply using ```grep <friend's number> phone_num_dict.txt; echo $?``` 
 and get 10 matches.
 
 #### Further usage
