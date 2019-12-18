@@ -20,16 +20,16 @@ So I use _indexmain.ru_collected.txt_'s file entries like
 ```89160000000``` up to ```89160099999```. So final list of numbers
 contains of MTS, Megafon, Beeline, Tele2 subscribers.
 
-####POC
+#### POC
 After _phone_num_dict.txt_ has been generated I've 
 check it with 10 real numbers randomly fetched from 
 my own phone dictionary simply using ```grep phone_num_dict.txt <friend's number> ; echo $?``` 
 and get 10 matches.
 
-####Further usage
+#### Further usage
 Each entry of _phone_num_dict.txt_ could be SHA1-ed 
 to create rainbow table to make brute force attack on 
 WPA2 faster.
 
-####Performance:
+#### Performance
 python2 rus_mobile_number_generator.py  87.97s user 1.30s system 98% cpu 1:30.36 total
